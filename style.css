@@ -1,0 +1,87 @@
+/* *{
+    background: aquamarine;
+} */
+body{
+    background-color: aquamarine;
+}
+.main-container{
+    width: 748px;
+    height: 748px;
+    background-color: black;
+    display: fixed;
+    margin: auto;
+}
+
+
+.part1{
+    display:flex;
+    gap: 9px;
+}
+.greendiv{
+    height: 414px;
+    width: 320px;
+    background-color: green;
+}
+.part2{
+    margin-top: 9px; 
+    display: flex;
+}
+
+.first1{
+    display: flex;
+    gap: 9px;
+}
+.bluediv{
+    height: 414px;
+    width: 419px;
+    background-color: blue;
+}
+.yellowdiv{
+    height: 295px;
+    width: 320px;
+    background-color: yellow;
+}
+.reddiv{
+    height: 295px;
+    width: 360px;
+    background-color: red;
+}
+
+
+.purplediv{
+    height: 130px;
+    width: 50px;
+    background-color: purple;
+}
+.whitediv{
+    margin-top: 10px;
+    height: 185px;
+    width: 50px;
+    background-color: white;
+}
+.second{
+    margin-left: 9px;
+}
+
+.first2{
+    display: flex;
+    margin-top: 9px;
+}
+.pinkdiv{
+    
+    height: 20px;
+    width: 320px;
+    background-color: pink;
+}
+.orangediv{
+    width: 198px;
+    height: 20px;
+    background-color: orange;
+    margin-left: 9px;
+}
+.violetdiv{
+    width: 153px;
+    height: 20px;
+    background-color: violet;
+    margin-left: 9px;
+}
